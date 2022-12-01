@@ -1,4 +1,5 @@
-# Katmanlı Mimari yapısı kullanıldı.
+#ShopsRus
+Katmanlı Mimari yapısı kullanıldı.
 Birçok entity modelinin unit test metodları yazıldı.(xunit)
 Repository Pattern modeli kullanıldı.
 mssql ve .net6 kullanıldı.
